@@ -1,0 +1,4 @@
+artifact_location: file:C:\Users\yin\source\repos\data-mining\stock-prediction\mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: prediction_analysis

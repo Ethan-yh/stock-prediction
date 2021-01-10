@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\yin\source\repos\data-mining\stock-prediction\mlruns/1/9b37aaf4a74347a2904715e46932eb90/artifacts
+end_time: 1610283763500
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9b37aaf4a74347a2904715e46932eb90
+run_uuid: 9b37aaf4a74347a2904715e46932eb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1610283762796
+status: 3
+tags: []
+user_id: yin
